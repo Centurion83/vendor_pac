@@ -11,6 +11,7 @@
         <device FullName="ZenFone 2" CodeName="Z00A"/>
     </vendor>
     <vendor Name="Google">
+        <device FullName="Google Pixel XL" CodeName="Marlin"/>
         <device FullName="Android One 4GB" CodeName="sprout4"/>
         <device FullName="Android One 8GB" CodeName="sprout8"/>
     </vendor>
